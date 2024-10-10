@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+
+
+.main-nav {
+    display: flex;
+
+}
+
+.main-nav div {
+    flex: 1;
+    text-align: center;
+}
+
+
+
